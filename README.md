@@ -1,4 +1,5 @@
 # backlog-analyze
+[![Build Status](https://travis-ci.org/hiranari/backlog-analyze.svg?branch=master)](https://travis-ci.org/hiranari/backlog-analyze)
 
 ## Project setup
 ```
