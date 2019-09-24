@@ -1,5 +1,6 @@
 # backlog-analyze
 [![Build Status](https://travis-ci.org/hiranari/backlog-analyze.svg?branch=master)](https://travis-ci.org/hiranari/backlog-analyze)
+[![Coverage Status](https://coveralls.io/repos/github/hiranari/backlog-analyze/badge.svg)](https://coveralls.io/github/hiranari/backlog-analyze)
 
 ## Project setup
 ```
